@@ -125,7 +125,7 @@ Color? defaultInkWellHoverColor;
 Color? defaultInkWellHighlightColor;
 double? defaultInkWellRadius;
 
-Color shadowColorGlobal = Colors.grey.withValues(alpha: 0.2);
+Color shadowColorGlobal = Colors.grey.withOpacity(0.7);
 int defaultElevation = 4;
 double defaultRadius = 8.0;
 double defaultBlurRadius = 4.0;
